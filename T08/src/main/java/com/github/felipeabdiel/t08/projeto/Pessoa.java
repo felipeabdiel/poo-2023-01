@@ -1,6 +1,6 @@
 package main.java.com.github.felipeabdiel.t08.projeto;
 
-public class Colaborador {
+public class Pessoa {
     String nome, funcao;
     int matricula;
 }
