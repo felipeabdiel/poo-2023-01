@@ -1,4 +1,5 @@
-package main.java.com.github.felipeabdiel.t08.cartesiano;
+package 
+cartesiano;
 
 public class Curva {
     Ponto ponto;

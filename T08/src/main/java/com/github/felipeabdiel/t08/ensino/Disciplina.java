@@ -1,4 +1,4 @@
-package main.java.com.github.felipeabdiel.t08.ensino;
+package ensino;
 
 public class Disciplina{
     String nome, professor;
