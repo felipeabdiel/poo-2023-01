@@ -1,5 +1,5 @@
 package main.java.com.github.felipeabdiel.t09.elements;
 
-public class Objeto {
+public class Objeto extends Elemento {
 
 }
