@@ -1,4 +1,4 @@
-package main.java.com.github.felipeabdiel.t13;
+package main.java.com.github.felipeabdiel.t18;
 
 public class Jogador {
     String nome, nacao, titulo;
