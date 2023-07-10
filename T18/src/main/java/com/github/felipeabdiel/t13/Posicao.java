@@ -1,10 +1,10 @@
 package main.java.com.github.felipeabdiel.t13;
 
 public class Posicao {
-    char linha;
-    int coluna;
+    int linha;
+    char coluna;
 
-    public Posicao(char linha, int coluna) {
+    public Posicao(char coluna, int linha) {
         this.linha = linha;
         this.coluna = coluna;
     }
